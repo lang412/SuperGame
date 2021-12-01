@@ -1,5 +1,6 @@
 public class Run{
 	public static void main(String[] args){
-		System.out.println("掉毛");	
+		System.out.println("掉毛了");	
+// 备注
 }
 }
